@@ -11,7 +11,7 @@
   "config/icon-size": "16",
   "config/log-level": "info",
   "config/show-statistics-when-sidebar-collapsed": "false",
-  "config/source-ip-label-map": "{\"10.0.0.34\":\"XIAOMI14\",\"10.0.0.43\":\"PC\",\"10.0.0.111\":\"DOCKER\",\"10.0.0.135\":\"DNS\"}",
+  "config/source-ip-label-map": "{\"10.0.0.34\":\"XIAOMI14\",\"10.0.0.43\":\"PC\",\"10.0.0.111\":\"SmartDNS\",\"10.0.0.123\":\"fnOS\"}",
   "config/use-connecticon-card": "false",
   "config/min-proxy-card-width": "145",
   "config/swipe-in-tabs": "false",
